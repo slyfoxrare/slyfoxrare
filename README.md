@@ -1,4 +1,3 @@
-Sylvester/README.md
 Hello 👋🏾
 
 www.linkedin.com/in/sylvester-atiomo
