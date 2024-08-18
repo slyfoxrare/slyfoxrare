@@ -2,7 +2,9 @@ Hello 👋🏾
 
 www.linkedin.com/in/sylvester-atiomo
 
-I am a dedicated Software Engineer with a dynamic and hands-on approach to agile methodologies. I aim to contribute by sharing expertise, developing comprehensive documentation, and advancing web engineering practices. Additionally, I produce technical content for my blog and work to foster and grow technical communities.
+Hey there! 👋 I’m one of the founders and a software developer at DevWyre, where we help businesses grow using tech, info, and media. 🌐📈 With over two years+ in software development, I design, develop, and maintain software systems and web services. 💻 I love working with teams to create clean, efficient code and ensure everything runs smoothly. 🤝✨
+
+I’m skilled in front-end development, Python, and CSS, and I’ve got multiple certifications from Programming Hub. 🖥️🐍🎨 Besides coding, I have a solid background in IT, data analysis, media content creation, and human resources. 📊🎥👥 My mission is to empower businesses through innovative tech and insightful information. 🚀💡
 
 Here's a quick summary about me:
 
